@@ -1,2 +1,2 @@
 # Chess
-My own Chess game in Python
+My own Chess-Game in Python
